@@ -1,7 +1,7 @@
 <%-- 
     Document   : LOGIN
     Created on : 13/07/2020, 09:23:19 AM
-    Author     : USER
+    Author     : JAVIER QUISPE
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        Ingrese usuario y clave
     </body>
 </html>
